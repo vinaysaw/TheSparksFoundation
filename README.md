@@ -13,4 +13,3 @@ Flow : Home Page > View all customers > Select and View one customer > Transfer 
 ## Technologies used -
 HTML, CSS, Bootstrap and JavaScript.
 
-[Live Demo](https://uxl32.csb.app/)
